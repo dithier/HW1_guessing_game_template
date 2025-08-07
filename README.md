@@ -15,7 +15,7 @@ Logistics
 
 For this assignment (and every assignment/lab), you must login into the servers through your_khoury_name@login.khoury.northeastern.edu to test your work. The reason is that this is a consistent architecture where your submission will be graded.
 
-## Thinking exercises to complete with a partner in lab (not graded)
+## Thinking exercises to complete 
 1. In the worse case, how many guesses would it our guessing game take to get the right answer if we had no hints at all? Explain.
 
 2. In the worst case, how many guesses does it take to get the right number if we get a hint of "higher or lower" when guessing numbers 1-10 and guess intelligently (always picking in the middle of the remaining set of numbers)? Is there a mathematical expression that we could use to explain the relationship between the number of possible numbers to guess and the number of guesses required? 
